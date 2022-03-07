@@ -1,0 +1,3 @@
+def test(par1,par2):
+    print("HI")
+    
