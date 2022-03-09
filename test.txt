@@ -1,3 +1,18 @@
 def test(par1,par2):
     print("HI")
-    
+    def test(1,2,3,4,5):
+    print("Hi")
+def test2(1,2,3):
+    print("Hello")
+def test3(1,2):
+    print("hey")
+def test4():
+    print("umm")
+def test5(1,2,3,45,6,3,2):
+    print("bye")
+def h(x,y,z):
+    q = 1/0
+    z = 1/p
+    p = 10
+    x > 10 
+    2 ** 10
